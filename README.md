@@ -4,7 +4,7 @@
 </p>
 
 <!-- TITLE -->
-<h2 align="center">👋 Hey, I'm YourName</h2>
+<h2 align="center">👋 Hey, I'm Yuna</h2>
 <p align="center">
   <b>💻 Developer • 🎨 UI Designer • 🎮 Minecraft Creator</b>
 </p>
