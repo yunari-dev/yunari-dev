@@ -1,26 +1,22 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=YourName&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yuna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- TITLE -->
 <h2 align="center">👋 Hey, I'm Yuna</h2>
 <p align="center">
   <b>💻 Developer • 🎨 UI Designer • 🎮 Minecraft Creator</b>
 </p>
 
-<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=450&lines=Build+cool+things;UI+%2B+Code+%3D+Art;Always+improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=450&lines=Design+Clean+UI;Build+Cool+Things;Minecraft+%2B+Code;Always+Learning" />
 </p>
 
 ---
 
-📊 Stats
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </p>
-
 ## 🧠 About Me
 ```diff
-+ Love clean UI & smooth UX
-+ Making Minecraft UI packs & web tools
-! Focus: Performance + Design
++ Passionate about UI / UX & clean design
++ Creating Minecraft UI Packs & Web Tools
++ Love animation, smooth interaction
+! Focus: Performance + Aesthetic
