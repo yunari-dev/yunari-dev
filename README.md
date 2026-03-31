@@ -1,61 +1,67 @@
-<h2 align="center">Hi 👋! My name is Yunari , from  Vietnam!</h2>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm YourName</h1>
+<h3 align="center">🚀 Full Stack Developer | UI Designer | Minecraft Modder</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+and+design;Always+learning+new+things" />
+</p>
 
-<br clear="both">
+---
 
-<img align="left" height="200" src="1757042945197 (online-video-cutter.com) (1).gif"  />
+## 🌟 About Me
+- 🔭 I’m currently working on **Minecraft UI Mods / Web Tools**
+- 🌱 Learning **React, NodeJS, UI/UX**
+- ⚡ Fun fact: I love anime & clean UI
 
-###
+---
 
-<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /></a></h2>
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,mongodb,git" />
+</p>
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-<h2 align="left"></h2>
+---
 
-###
+## 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-<br clear="both">
+---
 
-<div align="left">
-  <a href="https://www.facebook.com/Yunari06" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+## 🧩 Featured Projects
+- 🎮 **Minecraft UI Pack**
+- 🌐 **Video Upload Web**
+- 🤖 **Discord Bot Music**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://discord.gg/w9M6YBWdSk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
-<h2 align="left">About me ✨</h2>
+---
 
-###
-
-<br clear="both">
-
-<p align="left">• 🎀 I'm Vietnamese, and I love anime, video editing, and coding.<br><br>• 💻 I develop Discord bots using Python.<br><br>• ✂️ I often edit videos using After Effect and CapCut.<br><br>• 🌸 I'm always learning and creating cute and useful things for the community.<br><br>• 🎮 My favorite games are Minecraft and Wuthering Waves.</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CkhangZz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CkhangZz/CkhangZz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CkhangZz/CkhangZz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CkhangZz/CkhangZz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+## 💖 Support Me
+⭐ Star my repos if you like my work!
