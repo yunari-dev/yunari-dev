@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&color=00F7FF&center=true&vCenter=true&width=400&lines=Clean+UI+Lover;Minecraft+UI+Developer;Always+Learning" />
 </p>
 
----
-
-## 📌 Info
-- 👤 Name: **Yuna**
-- 🌍 Location: Vietnam  
-- 💡 Focus: UI/UX, Web Tools, Minecraft UI  
-- ⚡ Style: Clean • Minimal • Smooth  
 
 ---
 
